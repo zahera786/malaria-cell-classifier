@@ -94,6 +94,6 @@ The models achieved strong classification performance using relatively simple fe
 ![Segmentation Mask](results/mask.png)
 
 ## References
-NIH Malaria Dataset (Kaggle)
-Scikit-learn documentation
-scikit-image library
+-NIH Malaria Dataset (Kaggle)
+-Scikit-learn documentation
+-scikit-image library
