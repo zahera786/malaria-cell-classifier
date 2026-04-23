@@ -8,8 +8,16 @@ This project focuses on building a machine learning classifier to detect malaria
 The dataset consists of labeled cell images classified as parasitized or uninfected, sourced from the NIH Malaria Cell Images Dataset.
 
 ## Quick Start
+
+Install dependencies:
+```
 pip install -r requirements.txt
+```
+
+Run the project:
+```
 python main.py
+```
 
 ## Dataset  
 - Source: NIH Malaria Cell Images Dataset (Kaggle)  
