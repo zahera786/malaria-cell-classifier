@@ -2,6 +2,8 @@
 ## BioHack Spring 2026  
 ### Team: Zahera Khatoon, Amanda Gale, Aamna Sheikh 
 
+🔗 **Live Demo:** https://zahera786.github.io/malaria-cell-classifier/
+
 ## Overview  
 This project focuses on building a machine learning classifier to detect malaria-infected cells from microscopic blood smear images. Early and accurate detection of malaria is critical for effective treatment and disease management.
 
